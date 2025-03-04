@@ -1,0 +1,4 @@
+MOUSEKEY_ENABLE = no
+DEBOUNCE_TYPE=asym_eager_defer_pk
+AUTOCORRECT_ENABLE = yes
+CAPS_WORD_ENABLE = yes
